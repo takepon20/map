@@ -1,0 +1,35 @@
+body{
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+}
+
+#myMap{
+    justify-self: center;
+    height: 500px;
+}
+
+textarea,input{
+    display: block;
+    justify-self: center;
+    width: 70%;
+    margin: 10px 0;
+    font-size: 1rem;
+}
+
+#comment{
+    width: 494px;
+}
+
+h1{
+    border-bottom: 2px solid #ccc;
+}
+
+h3{
+    text-align: left;
+}
+
+header{
+    border-top:  2px solid #ccc;
+}
